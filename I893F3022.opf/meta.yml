@@ -1,17 +1,27 @@
-id: P001685
+id: I893F3022
+source: https://library.bdrc.io
+source_file: null
 initial_creation_type: ocr
-created_at: 24/03/2020
-last_modified_at: 2021-12-17 10:14:37.184639
+imported: '2020-03-24T19:02:30+00:00'
+last_modified: '2022-06-07T14:01:18.526775+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
 source_metadata:
   id: bdr:W23780
   title: ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་འགྲེལ་པ་བློ་གསལ་ཐོག་མའི་འཇུག་ངོགས་རིན་པོ་ཆེ་ཐེམ་སྐས
   author: ''
-  volumes:
-    fc70dedbfa624167bce0716e74442c3c:
-      image_group_id: I2759
-      title: ''
-      volume_number: 1
-      total_pages: 502
-      base_file: v001.txt
   access: http://purl.bdrc.io/admindata/AccessOpen
   restrictedInChina: false
+  base:
+    C9B6:
+      image_group_id: I2759
+      title: ''
+      total_pages: 502
+      order: 1
+      base_file: C9B6.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
